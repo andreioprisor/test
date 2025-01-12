@@ -1,0 +1,4 @@
+baseURL = "https://andreioprisor.github.io/test"
+languageCode = "en-us"
+title = "Poesis"
+theme = "tailwind"
