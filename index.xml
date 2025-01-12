@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Poesis</title>
+    <link>/</link>
+    <description>Recent content on Poesis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2024 11:10:36 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jan 2025 19:49:05 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our Vision and Building the MVP</title>
-      <link>http://localhost:1313/posts/blog-post-1/</link>
+      <link>/posts/blog-post-1/</link>
       <pubDate>Wed, 18 Dec 2024 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/posts/blog-post-1/</guid>
+      <guid>/posts/blog-post-1/</guid>
       <description>We are building an AI-powered MVP to transform how data is processed and insights are extracted. Here&amp;rsquo;s how we&amp;rsquo;re doing it.</description>
     </item>
     <item>
       <title>The Federal Reserve&#39;s Latest Policy Updates and Market Impacts</title>
-      <link>http://localhost:1313/posts/blog-post-3/</link>
+      <link>/posts/blog-post-3/</link>
       <pubDate>Wed, 18 Dec 2024 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/posts/blog-post-3/</guid>
+      <guid>/posts/blog-post-3/</guid>
       <description>The Federal Reserve&amp;rsquo;s recent policy decisions signal a continued focus on managing inflation and supporting economic stability. Here&amp;rsquo;s what it means for the markets.</description>
     </item>
     <item>
       <title>The Transformative Power of LLMs in Businesses</title>
-      <link>http://localhost:1313/posts/blog-post-2/</link>
+      <link>/posts/blog-post-2/</link>
       <pubDate>Wed, 18 Dec 2024 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/posts/blog-post-2/</guid>
+      <guid>/posts/blog-post-2/</guid>
       <description>Large language models (LLMs) are revolutionizing businesses by enhancing automation, improving customer engagement, and extracting actionable insights from data.</description>
     </item>
     <item>
       <title>The Federal Reserve&#39;s Latest Policy Updates and Market Impacts</title>
-      <link>http://localhost:1313/posts/news-post-1/</link>
+      <link>/posts/news-post-1/</link>
       <pubDate>Sat, 18 May 2024 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/posts/news-post-1/</guid>
+      <guid>/posts/news-post-1/</guid>
       <description>The Federal Reserve&amp;rsquo;s recent policy decisions signal a continued focus on managing inflation and supporting economic stability. Here&amp;rsquo;s what it means for the markets.</description>
     </item>
     <item>
       <title>2025 Market Forecast: Analysts Predict Transformative Advancements</title>
-      <link>http://localhost:1313/posts/news-post-2/</link>
+      <link>/posts/news-post-2/</link>
       <pubDate>Mon, 18 Apr 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/posts/news-post-2/</guid>
+      <guid>/posts/news-post-2/</guid>
       <description>The year 2025 is poised to bring groundbreaking changes across industries, with AI integration, renewable energy dominance, and quantum computing breakthroughs leading the way.</description>
     </item>
     <item>
       <title>About us</title>
-      <link>http://localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>/about/</guid>
       <description>Who We Are We are dreamers, builders, and innovators, leveraging the power of AI to shape a better tomorrow. Our journey is fueled by curiosity and determination to solve real-world challenges with cutting-edge technology.&#xA;&amp;ldquo;Our mission is to transform complex data into actionable insights through the magic of artificial intelligence.&amp;rdquo;&#xA;What We Do AI Research: Delving into groundbreaking AI applications to address the complexities of modern problems. Predictive Analytics: Crafting models that anticipate trends, enabling data-driven decisions.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>/contact/</link>
       <pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description> </description>
+      <guid>/contact/</guid>
+      <description> Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.&#xA;Your Email: Subject: Your message: Send Message </description>
     </item>
     <item>
       <title>Prose</title>
-      <link>http://localhost:1313/prose/</link>
+      <link>/prose/</link>
       <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/prose/</guid>
+      <guid>/prose/</guid>
       <description>@tailwindcss/typography View on GitHub!&#xA;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&#xA;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&#xA;Tailwind CSS IntelliSense extension for Visual Studio Code&#xA;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;{{ markdown }}&#xD;&amp;lt;/article&amp;gt; To see what it looks like in action, check out our live demo on Tailwind Play.</description>
     </item>
   </channel>
