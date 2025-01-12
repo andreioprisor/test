@@ -1,0 +1,194 @@
+baseURL: ''
+title: Poesis
+languageCode: en-us
+DefaultContentLanguage: en
+enableEmoji: true
+enableGitInfo: true
+enableRobotsTXT: true
+canonifyURLs: true
+pagination:
+  pagerSize: 6
+darkmode_js:
+  - assets/js/darkmode.js
+enableInlineShortcodes: true
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        apostrophe: '&rsquo;'
+        disable: false
+        ellipsis: '&hellip;'
+        emDash: '&mdash;'
+        enDash: '&ndash;'
+        leftAngleQuote: '&laquo;'
+        leftDoubleQuote: '&ldquo;'
+        leftSingleQuote: '&lsquo;'
+        rightAngleQuote: '&raquo;'
+        rightDoubleQuote: '&rdquo;'
+        rightSingleQuote: '&rsquo;'
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+
+params:
+  author: Andreio
+  authorimage: ../assets/images/global/logo.png
+  og_image: /images/globe-pic.png
+  moto: "From Data to Decisions – Redefining Possibilities."
+  description: "At Poesis, we transform complex data into actionable insights using cutting-edge AI technology."
+  disable_theme_toggle: false
+  disable_stay_uptodate: false
+
+  p1:
+    heading: "Our Mission"
+    image: "images/pages/image.png"
+    content:
+      - text: "Our mission is to explore and harness the power of artificial intelligence to transform complex data into actionable insights. Through cutting-edge research and innovative development, we aim to drive meaningful impact across industries by empowering businesses with smarter decision-making tools."
+      - text: "We are currently focused on building our Minimum Viable Product (MVP), which demonstrates the transformative potential of AI in extracting critical insights from data. This MVP serves as the foundation of our vision, allowing us to test, refine, and deliver value to early adopters while paving the way for scalable solutions in the future."
+  p2:
+    heading: "What We Plan To Do"
+    image: "images/pages/analysis.png"
+    content:
+      - text: "1. AI Research: Developing innovative tools to uncover valuable insights from complex data."
+      - text: "2. Predictive Analytics: Leveraging AI to forecast trends and identify actionable opportunities."
+      - text: "3. Data Processing: Transforming raw data into structured insights using advanced AI models."
+      - text: "4. Custom AI Solutions: Designing tailored AI systems to analyze data and enable smarter decisions."
+  p3:
+    heading: "Backed by Visionary Leadership"
+    image: "images/pages/leader.png"
+    content:
+      - text: "Our team of engineers, data scientists, and industry experts are guided by forward-thinking leaders passionate about delivering groundbreaking solutions. Together, we unlock the full potential of AI to solve real-world challenges."
+  p4:
+    heading: "From the Blog"
+    content:
+      - text: "Discover how we are leveraging AI to revolutionize industries, from healthcare to finance, through insightful stories and case studies shared by our expert team."
+  p5:
+    heading: "Stay Up to Date"
+    content:
+      - text: "Be part of our journey as we push the boundaries of AI innovation. Subscribe for updates on our latest developments, industry insights, and product launches."
+    action: "#"
+    label: "Email Address"
+    placeholder: "Enter your email"
+    button: "Notify Me"
+
+  social_media:
+    github:
+      enabled: true
+      url: 'https://github.com/nusserstudios'
+    facebook:
+      enabled: true
+      url: 'https://facebook.com/nusserstudios'
+    instagram:
+      enabled: true
+      url: 'https://instagram.com/nusserstudios'
+    twitter:
+      enabled: true
+      url: 'https://twitter.com/nusserstudios'
+    
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: media
+      pre: dropdown
+      name: Poesis Media
+      weight: 30
+    - identifier: solutions
+      pre: complexdropdown
+      name: Solutions
+      weight: 40
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
+  media:
+    - identifier: prose
+      name: News
+      url: /categories/news/
+      weight: 10
+    - identifier: about
+      name: Blog
+      url: /categories/blog/
+      weight: 20
+  footer:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /categories/blog/
+      weight: 20
+    - identifier: news
+      name: News
+      url: /categories/news/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
+  solutions:
+    - identifier: ai-research
+      name: AI Research
+      url: /solutions/ai-research/
+      weight: 10
+    - identifier: custom-ai-solutions
+      name: Custom AI Solutions
+      url: /solutions/custom-ai-solutions/
+      weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: Categories
+  tag: Tags
+
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: false
+    useSessionStorage: false
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.114.0"
