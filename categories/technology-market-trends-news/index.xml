@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology, Market Trends, News on Poesis</title>
+    <link>//localhost:1313/categories/technology-market-trends-news/</link>
+    <description>Recent content in Technology, Market Trends, News on Poesis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Oct 2022 15:34:06 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/technology-market-trends-news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 Market Forecast: Analysts Predict Transformative Advancements</title>
+      <link>//localhost:1313/posts/news-post-2/</link>
+      <pubDate>Sun, 12 Jan 2025 11:00:00 +0800</pubDate>
+      <guid>//localhost:1313/posts/news-post-2/</guid>
+      <description>The year 2025 is poised to bring groundbreaking changes across industries, with AI integration, renewable energy dominance, and quantum computing breakthroughs leading the way.</description>
+    </item>
+  </channel>
+</rss>
