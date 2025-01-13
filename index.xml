@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poesis</title>
-    <link>https://andreioprisor.github.io/test/</link>
+    <link>/</link>
     <description>Recent content on Poesis</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Jan 2025 19:49:05 +0200</lastBuildDate>
-    <atom:link href="https://andreioprisor.github.io/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our Vision and Building the MVP</title>
-      <link>https://andreioprisor.github.io/test/posts/blog-post-1/</link>
+      <link>/posts/blog-post-1/</link>
       <pubDate>Wed, 18 Dec 2024 11:10:36 +0800</pubDate>
-      <guid>https://andreioprisor.github.io/test/posts/blog-post-1/</guid>
+      <guid>/posts/blog-post-1/</guid>
       <description>We are building an AI-powered MVP to transform how data is processed and insights are extracted. Here&amp;rsquo;s how we&amp;rsquo;re doing it.</description>
     </item>
     <item>
       <title>The Federal Reserve&#39;s Latest Policy Updates and Market Impacts</title>
-      <link>https://andreioprisor.github.io/test/posts/blog-post-3/</link>
+      <link>/posts/blog-post-3/</link>
       <pubDate>Wed, 18 Dec 2024 11:10:36 +0800</pubDate>
-      <guid>https://andreioprisor.github.io/test/posts/blog-post-3/</guid>
+      <guid>/posts/blog-post-3/</guid>
       <description>The Federal Reserve&amp;rsquo;s recent policy decisions signal a continued focus on managing inflation and supporting economic stability. Here&amp;rsquo;s what it means for the markets.</description>
     </item>
     <item>
       <title>The Transformative Power of LLMs in Businesses</title>
-      <link>https://andreioprisor.github.io/test/posts/blog-post-2/</link>
+      <link>/posts/blog-post-2/</link>
       <pubDate>Wed, 18 Dec 2024 11:10:36 +0800</pubDate>
-      <guid>https://andreioprisor.github.io/test/posts/blog-post-2/</guid>
+      <guid>/posts/blog-post-2/</guid>
       <description>Large language models (LLMs) are revolutionizing businesses by enhancing automation, improving customer engagement, and extracting actionable insights from data.</description>
     </item>
     <item>
       <title>The Federal Reserve&#39;s Latest Policy Updates and Market Impacts</title>
-      <link>https://andreioprisor.github.io/test/posts/news-post-1/</link>
+      <link>/posts/news-post-1/</link>
       <pubDate>Sat, 18 May 2024 11:10:36 +0800</pubDate>
-      <guid>https://andreioprisor.github.io/test/posts/news-post-1/</guid>
+      <guid>/posts/news-post-1/</guid>
       <description>The Federal Reserve&amp;rsquo;s recent policy decisions signal a continued focus on managing inflation and supporting economic stability. Here&amp;rsquo;s what it means for the markets.</description>
     </item>
     <item>
       <title>2025 Market Forecast: Analysts Predict Transformative Advancements</title>
-      <link>https://andreioprisor.github.io/test/posts/news-post-2/</link>
+      <link>/posts/news-post-2/</link>
       <pubDate>Mon, 18 Apr 2022 11:10:36 +0800</pubDate>
-      <guid>https://andreioprisor.github.io/test/posts/news-post-2/</guid>
+      <guid>/posts/news-post-2/</guid>
       <description>The year 2025 is poised to bring groundbreaking changes across industries, with AI integration, renewable energy dominance, and quantum computing breakthroughs leading the way.</description>
     </item>
     <item>
       <title>About us</title>
-      <link>https://andreioprisor.github.io/test/about/</link>
+      <link>/about/</link>
       <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>https://andreioprisor.github.io/test/about/</guid>
-      <description>Who We Are We are dreamers, builders, and innovators, leveraging the power of AI to shape a better tomorrow. Our journey is fueled by curiosity and determination to solve real-world challenges with cutting-edge technology.&#xA;&amp;ldquo;Our mission is to transform complex data into actionable insights through the magic of artificial intelligence.&amp;rdquo;&#xA;What We Do AI Research: Delving into groundbreaking AI applications to address the complexities of modern problems. Predictive Analytics: Crafting models that anticipate trends, enabling data-driven decisions.</description>
+      <guid>/about/</guid>
+      <description>&lt;h2 id=&#34;who-we-are&#34;&gt;Who We Are&lt;/h2&gt;&#xA;&lt;p&gt;We are dreamers, builders, and innovators, leveraging the power of AI to shape a better tomorrow. Our journey is fueled by curiosity and determination to solve real-world challenges with cutting-edge technology.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Our mission is to transform complex data into actionable insights through the magic of artificial intelligence.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;what-we-do&#34;&gt;What We Do&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;AI Research&lt;/strong&gt;: Delving into groundbreaking AI applications to address the complexities of modern problems.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Predictive Analytics&lt;/strong&gt;: Crafting models that anticipate trends, enabling data-driven decisions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Processing&lt;/strong&gt;: Delivering scalable and efficient solutions for intricate datasets.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-choose-us&#34;&gt;Why Choose Us?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dedicated to innovation with a future-focused vision.&lt;/li&gt;&#xA;&lt;li&gt;Expertise in AI technologies that redefine industries.&lt;/li&gt;&#xA;&lt;li&gt;A team passionate about making a meaningful impact.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect!&lt;/h2&gt;&#xA;&lt;p&gt;We are currently developing our MVP, highlighting the potential of AI to tackle the most pressing global challenges.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://andreioprisor.github.io/test/contact/</link>
+      <link>/contact/</link>
       <pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate>
-      <guid>https://andreioprisor.github.io/test/contact/</guid>
-      <description> Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.&#xA;Your Email: Subject: Your message: Send Message </description>
+      <guid>/contact/</guid>
+      <description>&lt;!-- @format --&gt;&#xA;&lt;section class=&#34;lg:pb-24&#34;&gt;&#xA;  &lt;div class=&#34;max-w-screen-md px-4 mx-auto&#34;&gt;&#xA;      &lt;p class=&#34;mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl&#34;&gt;Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.&lt;/p&gt;&#xA;      &lt;form name=&#34;contact&#34; action=&#34;https://formsubmit.co/49f3d3acadcb71c500b4c3793ec23a5d&#34; method=&#34;POST&#34; class=&#34;space-y-8&#34;&gt;&#xA;          &lt;div class=&#34;my-4&#34;&gt;&#xA;              &lt;label for=&#34;email&#34; class=&#34;block mb-2 font-medium text-gray-900 text-md dark:text-gray-300&#34;&gt;&lt;strong&gt;Your Email:&lt;/strong&gt;&lt;/label&gt;&#xA;              &lt;input type=&#34;email&#34; name=&#34;email&#34; class=&#34;shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-md rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light&#34; placeholder=&#34;name@example.com&#34; required&gt;&#xA;          &lt;/div&gt;&#xA;          &lt;div class=&#34;my-4&#34;&gt;&#xA;              &lt;label for=&#34;subject&#34; class=&#34;block mb-2 font-medium text-gray-900 text-md dark:text-gray-300&#34;&gt;&lt;strong&gt;Subject:&lt;/strong&gt;&lt;/label&gt;&#xA;              &lt;input type=&#34;text&#34; name=&#34;subject&#34; class=&#34;block w-full p-3 text-gray-900 border border-gray-300 rounded-lg shadow-sm text-md bg-gray-50 focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light&#34; placeholder=&#34;Let us know how we can help you&#34; required&gt;&#xA;          &lt;/div&gt;&#xA;          &lt;div class=&#34;my-4 sm:col-span-2&#34;&gt;&#xA;              &lt;label for=&#34;message&#34; class=&#34;block mb-2 font-medium text-gray-900 text-md dark:text-gray-400&#34;&gt;&lt;strong&gt;Your message:&lt;/strong&gt;&lt;/label&gt;&#xA;              &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;6&#34; class=&#34;block p-2.5 w-full text-md text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300 focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500&#34; placeholder=&#34;Leave a comment...&#34;&gt;&lt;/textarea&gt;&#xA;          &lt;/div&gt;&#xA;          &lt;div class=&#34;mt-6 lg:pb-16&#34;&gt;&#xA;             &lt;button type=&#34;submit&#34; class=&#34;px-5 py-3 font-bold text-center text-white bg-indigo-600 rounded-lg text-md sm:w-fit hover:bg-indigo-800 focus:ring-4 focus:outline-none focus:ring-indigo-300 dark:bg-indigo-600 dark:hover:bg-indigo-700 dark:focus:ring-indigo-800&#34;&gt;Send Message&lt;/button&gt;&#xA;          &lt;/div&gt;&#xA;      &lt;/form&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;</description>
     </item>
     <item>
       <title>Prose</title>
-      <link>https://andreioprisor.github.io/test/prose/</link>
+      <link>/prose/</link>
       <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>https://andreioprisor.github.io/test/prose/</guid>
-      <description>@tailwindcss/typography View on GitHub!&#xA;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&#xA;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&#xA;Tailwind CSS IntelliSense extension for Visual Studio Code&#xA;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;{{ markdown }}&#xD;&amp;lt;/article&amp;gt; To see what it looks like in action, check out our live demo on Tailwind Play.</description>
+      <guid>/prose/</guid>
+      <description>&lt;h2 id=&#34;tailwindcsstypography&#34;&gt;@tailwindcss/typography&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tailwindlabs/tailwindcss-typography&#34;&gt;View on GitHub&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&lt;/p&gt;&#xA;&lt;p&gt;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&lt;/p&gt;&#xA;&lt;p&gt;Tailwind CSS IntelliSense extension for Visual Studio Code&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;&#xA;  {{ markdown }}&#xD;&#xA;&amp;lt;/article&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To see what it looks like in action, check out our &lt;a href=&#34;https://play.tailwindcss.com/uj1vGACRJA?layout=preview&#34;&gt;live demo&lt;/a&gt; on Tailwind Play.&#xA;​&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
