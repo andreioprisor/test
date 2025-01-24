@@ -9,25 +9,25 @@
     <lastBuildDate>Sun, 12 Jan 2025 19:49:05 +0200</lastBuildDate>
     <atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Our Vision and Building the MVP</title>
-      <link>/posts/blog-post-1/</link>
-      <pubDate>Wed, 18 Dec 2024 11:10:36 +0800</pubDate>
-      <guid>/posts/blog-post-1/</guid>
-      <description>We are building an AI-powered MVP to transform how data is processed and insights are extracted. Here&amp;rsquo;s how we&amp;rsquo;re doing it.</description>
-    </item>
-    <item>
       <title>The Federal Reserve&#39;s Latest Policy Updates and Market Impacts</title>
       <link>/posts/blog-post-3/</link>
-      <pubDate>Wed, 18 Dec 2024 11:10:36 +0800</pubDate>
+      <pubDate>Wed, 15 Jan 2025 11:10:36 +0800</pubDate>
       <guid>/posts/blog-post-3/</guid>
       <description>The Federal Reserve&amp;rsquo;s recent policy decisions signal a continued focus on managing inflation and supporting economic stability. Here&amp;rsquo;s what it means for the markets.</description>
     </item>
     <item>
       <title>The Transformative Power of LLMs in Businesses</title>
       <link>/posts/blog-post-2/</link>
-      <pubDate>Wed, 18 Dec 2024 11:10:36 +0800</pubDate>
+      <pubDate>Wed, 15 Jan 2025 11:10:36 +0800</pubDate>
       <guid>/posts/blog-post-2/</guid>
       <description>Large language models (LLMs) are revolutionizing businesses by enhancing automation, improving customer engagement, and extracting actionable insights from data.</description>
+    </item>
+    <item>
+      <title>Our Vision and Building the MVP</title>
+      <link>/posts/blog-post-1/</link>
+      <pubDate>Mon, 13 Jan 2025 11:10:36 +0800</pubDate>
+      <guid>/posts/blog-post-1/</guid>
+      <description>We are building an AI-powered MVP to transform how data is processed and insights are extracted. Here&amp;rsquo;s how we&amp;rsquo;re doing it.</description>
     </item>
   </channel>
 </rss>
